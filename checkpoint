@@ -1,0 +1,3 @@
+model_checkpoint_path: "lenet.lnormST"
+all_model_checkpoint_paths: "lenet.lnorm"
+all_model_checkpoint_paths: "lenet.lnormST"
